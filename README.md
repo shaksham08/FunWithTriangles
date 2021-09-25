@@ -5,4 +5,4 @@ An application to check your knowledge of triangles and also helps in calculatin
 
 GITHUB :- https://github.com/shaksham08/FunWithTriangles
 
-LIVE:- 
+LIVE:-  https://funwithtrianglesneo.netlify.app/
